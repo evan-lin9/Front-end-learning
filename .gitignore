@@ -1,0 +1,7 @@
+# node_modules
+node_modules
+# editor
+.vscode
+*.code-workspace
+# node_modules
+.idea

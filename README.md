@@ -35,6 +35,7 @@ ES6、7、8：10天
 ![learn-plan](https://github.com/SkyLin0909/Front-end-learning/blob/master/leran-plan.png)
 
 >HTML & CSS
+
 [HTML手册][https://www.w3school.com.cn/html5/html5_reference.asp]
 [CSS2/CSS3手册][http://css.cuishifeng.cn/]
 [loading动画][https://www.html5tricks.com/demo/css3-loading-cool-styles/index.html]
@@ -43,6 +44,7 @@ ES6、7、8：10天
 [Grid布局][https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html]
 
 >JS & ES6
+
 [MDN][https://developer.mozilla.org/zh-CN/docs/Web/JavaScript]
 [ES6][https://es6.ruanyifeng.com/]
 [正则表达式][https://deerchao.cn/tutorials/regex/regex.htm]
@@ -50,6 +52,7 @@ ES6、7、8：10天
 [TypeScript][https://www.tslang.cn/docs/home.html]
 
 >框架
+
 [Vue][https://cn.vuejs.org/index.html]
 [React][https://zh-hans.reactjs.org/docs/getting-started.html]
 [学习视频的网站（国外）][https://classroom.udacity.com/me#courses]
