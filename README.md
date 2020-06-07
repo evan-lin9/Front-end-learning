@@ -17,17 +17,17 @@ PS：红线代表不影响学习进度，可以先跳过，后面在学
 
 规划：一天算 8 小时，一周学习 6 天，休息一天，8 个月近 200 天
 
-HTML：5 天
-CSS：基础部分 20 天
-CSS3: 10 天
+HTML：5 天,
+CSS：基础部分 20 天,
+CSS3: 10 天,
 复习、实战：5 天
 
-JS基础：40 天
+JS基础：40 天,
 jQuery: 20 天
 
-其他知识：50 天
-Vue：10 天
-打磨项目、准备简历
+其他知识：50 天,
+Vue：10 天,
+打磨项目、准备简历,
 复习JS：30 天
 
 ES6、7、8：10天
@@ -39,11 +39,13 @@ ES6、7、8：10天
 >HTML & CSS
 
 [HTML手册](https://www.w3school.com.cn/html5/html5_reference.asp)
-[CSS2/CSS3手册](http://css.cuishifeng.cn/)
-[loading动画](https://www.html5tricks.com/demo/css3-loading-cool-styles/index.html)
+[CSS2/CSS3 手册](http://css.cuishifeng.cn/)
+[loading 动画](https://www.html5tricks.com/demo/css3-loading-cool-styles/index.html)
 [特效动画库](https://animate.style/)
-[Flex布局](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
-[Grid布局](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
+[CSS 布局](http://zh.learnlayout.com/)
+[Flex 布局](http://flexboxfroggy.com/)
+[练习 Flex](https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+[Grid 布局](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
 
 >JS & ES6
 
