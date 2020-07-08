@@ -1,10 +1,5 @@
-// module.exports = {
-//   css: {
-//     extract: true,
-//     loaderOptions: {
-//       css: {
-//
-//       }
-//     }
-//   }
-// }
+module.exports = {
+  chainWebpack: config => {
+    config.resolve.symlinks(true);
+  }
+}
