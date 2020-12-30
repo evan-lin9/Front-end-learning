@@ -1,7 +1,9 @@
 # Front-end-learning
-**前端自学路线和规划，长期更新**
+**前端路线和规划，长期更新**
 
-## Q群：674433896
+### Q群: 674433896
+### wx群: 加好友再拉
+### 个微: Evan-lin-redrain (记得备注：前端学习)
 
 >标记的含义
 
@@ -13,7 +15,7 @@
 
 PS：红线代表不影响学习进度，可以先跳过，后面在学
 
->UP当年的规划
+>我当时的规划
 
 规划：一天算 8 小时，一周学习 6 天，休息一天，8 个月近 200 天
 
@@ -33,7 +35,6 @@ Vue：10 天,
 ES6、7、8：10天
 
 >路线图
-
 ![learn-plan](https://github.com/SkyLin0909/Front-end-learning/blob/master/leran-plan.png)
 
 >HTML & CSS
